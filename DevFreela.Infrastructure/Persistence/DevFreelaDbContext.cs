@@ -1,9 +1,6 @@
 ﻿using DevFreela.Core.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
 using System.Reflection;
-using System.Reflection.PortableExecutable;
 
 namespace DevFreela.Infrastructure.Persistence
 {
